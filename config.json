@@ -1,0 +1,9 @@
+{
+  "tickers": ["AAPL", "MSFT", "SAP.DE", "ALV.DE"],
+  "start_cash": 10000.0,
+  "position_size": 1000.0,
+  "sma_window": 20,
+  "buy_below_sma_pct": 5.0,
+  "take_profit_pct": 8.0,
+  "stop_loss_pct": 10.0
+}
